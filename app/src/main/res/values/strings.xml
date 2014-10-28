@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Easpy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">¿Qué hay en tu refri?</string>
+    <string name="hint_title">Escribe tus ingredientes</string>
+    <string name="bt_cancelar">Cancelar</string>
+    <string name="bt_buscar">Buscar</string>
+    <string name="seg_actividad">Hemos encontrado tu receta</string>
+    <string name="regresar">Regresar</string>
+</resources>
